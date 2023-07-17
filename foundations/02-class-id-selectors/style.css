@@ -1,0 +1,19 @@
+.wbg {
+    background-color: #ff7878;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#id-one {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#id-two {
+    font-size: 24px;
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+}
